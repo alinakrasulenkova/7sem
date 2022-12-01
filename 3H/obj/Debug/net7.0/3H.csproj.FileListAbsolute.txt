@@ -1,0 +1,15 @@
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\obj\Debug\net7.0\3H.csproj.AssemblyReference.cache
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\obj\Debug\net7.0\3H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\obj\Debug\net7.0\3H.AssemblyInfoInputs.cache
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\obj\Debug\net7.0\3H.AssemblyInfo.cs
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\obj\Debug\net7.0\3H.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\bin\Debug\net7.0\3H.exe
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\bin\Debug\net7.0\3H.deps.json
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\bin\Debug\net7.0\3H.runtimeconfig.json
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\bin\Debug\net7.0\3H.dll
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\bin\Debug\net7.0\3H.pdb
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\obj\Debug\net7.0\3H.dll
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\obj\Debug\net7.0\refint\3H.dll
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\obj\Debug\net7.0\3H.pdb
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\obj\Debug\net7.0\3H.genruntimeconfig.cache
+C:\Users\Георгий\Desktop\Учеба айти\7sem\3H\obj\Debug\net7.0\ref\3H.dll
